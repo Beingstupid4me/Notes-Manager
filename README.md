@@ -1,6 +1,5 @@
 # 🚀 Notes-Manager: Your Next.js and Firebase Solution
 
-!NextFire Homepage
 
 ## 🌐 Overview
 
